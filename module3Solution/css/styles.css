@@ -3,6 +3,10 @@
     scroll-behavior: smooth;
 }
 
+body{
+    padding-top: 50px;
+}
+
 h1 {
     font-weight: 600;
 }
