@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+h1 {
+    font-weight: 600;
+}
+
+span {
+    font-size: large;
+    font-weight: 600;
+}
+
+.nav{
+    text-align: center;
+    font-size: medium;
+}
+
+.navbar-brand span{
+    font-weight: 600;
+    font-size: x-large;
+    color: black;
+}
+
+.box {
+    background-color: #999999;
+    height: auto;
+    margin-right: 1em;
+    margin-left: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    color: black;
+    position: relative;
+}
+
+.dummy {
+    margin: 1em;
+    margin-bottom: 1em;
+    clear: right;
+}
+
+#chicken{
+    padding-top: 0.5em;
+}
